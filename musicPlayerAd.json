@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-3147524971917133/2311759298",
+        "AdMobInterstitial"   : "ca-app-pub-3147524971917133/5908906647",
+        "AdMobNative"         : "ca-app-pub-3147524971917133/5559408585",
+        "AdMobOpenAd"         : "ca-app-pub-3147524971917133/5064462442",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
@@ -162,6 +162,12 @@
       "name": "Music 13 Organisé & Lyrics",
       "packageName": "com.treize.organise.gouss",
       "icon": "https://play-lh.googleusercontent.com/w9dr8jxQuxwBck__2Re4UKt2FdaDiCSGl2u7djF3q79MYyDU8rcpHZZIdNDZF8Pi-Vs=w240-h480",
+      "download": "+50k"
+    },
+	{
+      "name": "Mark Forster & Lyrics Offline",
+      "packageName": "com.markfos.terchone.gouss",
+      "icon": "https://play-lh.googleusercontent.com/gmO21JGyfcKMpdoRfnTXpQiZ0A8wzK0OBYK3spRLk5KmU0hR0bmofHyhgnrpk8BGELg=w240-h480",
       "download": "+50k"
     },
     {
